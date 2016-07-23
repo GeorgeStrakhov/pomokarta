@@ -1,0 +1,28 @@
+/*
+ * custom styles
+ */
+
+@media(max-width: 500px) {
+  .howItWorksColumn, .howItWorksCont {
+    padding: 20px;
+  }
+}
+
+.howItWorksColumn  h4{
+  font-size: 40px;
+  padding-top: 5px;
+  color: #EEE;
+  background-color: #BF2626;
+  height: 54px;
+  width: 54px;
+  border-radius: 27px;
+  margin: 0 auto;
+  margin-bottom: 1.6em;
+}
+
+hr {
+  width: 60%;
+  margin: 0 auto;
+  margin-bottom: 3em;
+  margin-top: 3em;
+}

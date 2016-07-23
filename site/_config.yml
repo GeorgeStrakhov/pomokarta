@@ -1,0 +1,22 @@
+# Site settings
+title: ПОМОКАРТА
+email: pomokarta@gmail.com
+url: http://pomokarta.ru
+description: "благотворительный купон, который позволяет ответственно помогать людям на улицах"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#BF2626'
+
+# Footer settings
+footer: Pomokarta.ru
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
